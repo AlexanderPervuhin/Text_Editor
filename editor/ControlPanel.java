@@ -1,5 +1,3 @@
-package editor;
-
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import javax.swing.event.DocumentListener;

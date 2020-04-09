@@ -1,5 +1,3 @@
-package editor;
-
 import javax.swing.*;
 import java.util.ArrayList;
 import java.util.ListIterator;
